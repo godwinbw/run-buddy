@@ -17,4 +17,4 @@ https://godwinbw.github.io/run-buddy/
 
 Made with ❤️ by Bryan Godwin
 
-# Run Buddy, Inc.
+### ©️2019 Run Buddy, Inc
